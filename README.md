@@ -1,3 +1,3 @@
 # Face-Recognization
 
-![](images\1.PNG)
+![](images/1.PNG)
